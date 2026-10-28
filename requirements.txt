@@ -1,0 +1,7 @@
+# Install matching PyTorch / torch-scatter wheels first (see README).
+numpy==1.26.4
+pandas==2.3.3
+scipy==1.15.3
+pyarrow==23.0.1
+safetensors==0.7.0
+torch-geometric==2.6.1
